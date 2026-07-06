@@ -1,0 +1,1 @@
+var e=`/yb-superradiance-sim/assets/occt-import-js-BhHfLpto.wasm`;export{e as default};
